@@ -4,4 +4,4 @@ The YOLOv8 image classification model is designed to detect 1000 pre-defined cla
 Here I have uesd "yolov8s-cls.pt" model on my custom dataset.
 
 Link of dataset: https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/data.
-My Youtube Channel: https://www.youtube.com/@MetaForge_
+Youtube Channel: https://www.youtube.com/@MetaForge_.
