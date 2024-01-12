@@ -1,1 +1,8 @@
-
+numpy
+matplotlib
+glob
+cv2
+keras
+os
+seaborn
+sklearn
